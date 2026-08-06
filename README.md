@@ -27,6 +27,7 @@ C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white">
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088ff?style=flat-square&logo=githubactions&logoColor=white">
