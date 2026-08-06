@@ -1,4 +1,6 @@
-## Nya~ (*/ω＼*) What are you doing in my repo?!
+# hi.
+
+this README used to have content.
 
 <p align="center">
   <a href="mailto:karabooliphant34@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -9,18 +11,9 @@
 
 <img align="right" width="260px" src="neko.png" />
 
-Karabo — a backend cat who builds compilers for fun and commits directly to main. You can hear me coming from the jingle bells on my tail 🔔
-
 - 💬 English · C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
 - ⏰ 09:00 - 27:00 「[UTC+2](https://time.is/UTC+2)」 *(the clock is a suggestion)*
 - 🔗 [heykarabo.com](https://heykarabo.com) · Johannesburg, SA
-
-### What I Actually Do 🐾
-
-- ⚡ Building programming languages from scratch (Pratt parsers go *brrr*)
-- ⛵ Implementing Raft consensus algorithms directly from research papers
-- 💳 Processing ZAR payments and pretending I know what I'm doing
-- 🐛 Occasionally shipping bugs to production (it's called *iterating*)
 
 ### Stuff I Touch 🐾
 
@@ -48,5 +41,3 @@ Karabo — a backend cat who builds compilers for fun and commits directly to ma
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
   <img alt="Kitty" src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white">
 </p>
-
-> *"If it compiles, ship it. If it doesn't, add more paw prints and try again."* 🐾
