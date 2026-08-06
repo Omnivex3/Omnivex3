@@ -33,6 +33,6 @@ C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088ff?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white">
   <img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!__OS-48b9c7?style=flat-square&logo=linux&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white">
   <img alt="Kitty" src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white">
 </p>
