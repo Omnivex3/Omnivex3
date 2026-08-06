@@ -9,11 +9,14 @@ this README used to have content.
   <a href="https://heykarabo.com"><img src="https://img.shields.io/badge/heykarabo.com-6366f1.svg?style=flat-square&logo=safari&logoColor=white" alt="Site"></a>
 </p>
 
-<img align="right" width="260px" src="neko.png" />
+<img align="right" width="300px" src="neko.png" />
 
-- 💬 English · C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
-- ⏰ 09:00 - 27:00 「[UTC+2](https://time.is/UTC+2)」 *(the clock is a suggestion)*
-- 🔗 [heykarabo.com](https://heykarabo.com) · Johannesburg, SA
+C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
+
+09:00 - 27:00 [UTC+2]
+*(the clock is a suggestion)*
+
+[heykarabo.com](https://heykarabo.com) · Johannesburg, SA
 
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=csharp&logoColor=white">
@@ -28,9 +31,6 @@ this README used to have content.
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white">
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088ff?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white">
-</p>
-
-<p align="center">
   <img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!__OS-48b9c7?style=flat-square&logo=linux&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
   <img alt="Kitty" src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white">
