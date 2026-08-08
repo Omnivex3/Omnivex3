@@ -23,8 +23,9 @@ nothing suspicious going on here ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
 
-09:00 - 27:00 [UTC+2]
-*(the clock is a suggestion)*
+currently eepy (˶ᵔ ᵕ ᵔ˶)
+
+availability: 09:00 - 27:00
 
 [heykarabo.com](https://heykarabo.com) · Johannesburg, SA
 
