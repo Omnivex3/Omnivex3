@@ -21,7 +21,7 @@ do NOT check the commit times (,,>﹏<,,)
 
 nothing suspicious going on here ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
-C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
+C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning) ヽ(°〇°)ﾉ
 
 currently eepy (˶ᵔ ᵕ ᵔ˶)
 
