@@ -9,6 +9,10 @@ pwease don't look at my pwojects ( • ̀ω•́ )✧
   <a href="https://heykarabo.com"><img src="https://img.shields.io/badge/heykarabo.com-6366f1.svg?style=flat-square&logo=safari&logoColor=white" alt="Site"></a>
 </p>
 
+<p align="center">
+  <sub>omg don't actually contact me i'll get scared (,,>﹏<,,)</sub>
+</p>
+
 <img align="right" width="300px" src="neko.png" />
 
 omg hai stalker (˶˃ ᵕ ˂˶)
