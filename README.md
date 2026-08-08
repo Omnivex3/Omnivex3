@@ -1,6 +1,6 @@
-# meow₍^. .^₎Ⳋ.
+# haiiiii :3
 
-this README used to have content.
+pwease don't look at my pwojects ( • ̀ω•́ )✧
 
 <p align="center">
   <a href="mailto:karabooliphant34@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -11,12 +11,20 @@ this README used to have content.
 
 <img align="right" width="300px" src="neko.png" />
 
+omg hai stalker (˶˃ ᵕ ˂˶)
+
+do NOT check the commit times (,,>﹏<,,)
+
+nothing suspicious going on here ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+
 C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
 
 09:00 - 27:00 [UTC+2]
 *(the clock is a suggestion)*
 
 [heykarabo.com](https://heykarabo.com) · Johannesburg, SA
+
+nooooo don't git blame me ur so sexy aha
 
 <p align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=csharp&logoColor=white">
@@ -36,3 +44,5 @@ C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning)
   <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white">
   <img alt="Kitty" src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white">
 </p>
+
+why awe you still here (｡•́︿•̀｡)
