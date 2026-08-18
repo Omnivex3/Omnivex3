@@ -23,8 +23,6 @@ nothing suspicious going on here ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 C# · TypeScript · SQL · PHP · ~~Sleeping~~ ~~Rust~~ (learning) ヽ(°〇°)ﾉ
 
-currently eepy (˶ᵔ ᵕ ᵔ˶)
-
 availability: 09:00 - 27:00
 
 nooooo don't git blame me ur so sexy aha
