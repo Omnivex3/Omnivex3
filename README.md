@@ -1,4 +1,4 @@
-# haiiiii :3
+# haiiiii :3 🍓🧁🌸✨
 
 pwease don't look at my pwojects ( • ̀ω•́ )✧
 
