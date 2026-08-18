@@ -27,27 +27,6 @@ currently eepy (˶ᵔ ᵕ ᵔ˶)
 
 availability: 09:00 - 27:00
 
-[heykarabo.com](https://heykarabo.com) · Johannesburg, SA
-
 nooooo don't git blame me ur so sexy aha
-
-<p align="center">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-512bd4?style=flat-square&logo=csharp&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-087ea4?style=flat-square&logo=react&logoColor=white">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white">
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088ff?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white">
-  <img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!__OS-48b9c7?style=flat-square&logo=linux&logoColor=white">
-  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white">
-  <img alt="Kitty" src="https://img.shields.io/badge/Kitty-000000?style=flat-square&logo=kitty&logoColor=white">
-</p>
 
 why awe you still here (｡•́︿•̀｡)
