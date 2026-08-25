@@ -1,8 +1,6 @@
 # haiiiii :3 🍓🧁🌸✨
 
-<p align="center">
-  <img src="kazumi-readme.webp" alt="Kazumi the fairy leaning into view" width="100%">
-</p>
+<img align="right" width="360" src="kazumi-peek.webp" alt="Kazumi the fairy peeking in from the side">
 
 pwease don't look at my pwojects ( • ̀ω•́ )✧
 
