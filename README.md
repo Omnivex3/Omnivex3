@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kazumi-fairy-banner.webp" alt="Kazumi the fairy offering a strawberry beneath a bright blue sky" width="100%">
+</p>
+
 # haiiiii :3 🍓🧁🌸✨
 
 pwease don't look at my pwojects ( • ̀ω•́ )✧
