@@ -1,5 +1,9 @@
 # haiiiii :3 🍓🧁🌸✨
 
+<p align="center">
+  <img src="kazumi-readme.webp" alt="Kazumi the fairy leaning into view" width="100%">
+</p>
+
 pwease don't look at my pwojects ( • ̀ω•́ )✧
 
 <p align="center">
@@ -13,7 +17,6 @@ pwease don't look at my pwojects ( • ̀ω•́ )✧
   <sub>omg don't actually contact me i'll get scared (,,>﹏<,,)</sub>
 </p>
 
-<img align="right" width="500px" src="neko.png" />
 
 omg hai stalker (˶˃ ᵕ ˂˶)
 
